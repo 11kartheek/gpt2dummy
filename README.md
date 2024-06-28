@@ -29,3 +29,6 @@ To use the GPT-2 implementation:
    ```bash
    git clone https://github.com/11kartheek/gpt2dummy.git
    cd gpt2dummy
+
+## Note
+current loss is 0.2613 will update by tomorrow eod with loss than 0.09
