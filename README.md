@@ -14,7 +14,7 @@ View the implementation notebook `gpt2.ipynb`.
 
 ## Screenshot
 
-![GPT-2 Screenshot](screenshot-placeholder.png)
+![GPT-2 Screenshot](screenshot.png)
 
 ## Features
 
