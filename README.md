@@ -18,9 +18,6 @@ View the implementation notebook `gpt2.ipynb`.
 
 ## Features
 
-- **GPT-2 Model**: Implements the GPT-2 architecture for natural language processing tasks.
-- **Hugging Face Transformers**: Uses the Hugging Face Transformers library for easy integration and deployment.
-- **Fine-tuning**: Includes scripts and examples for fine-tuning GPT-2 on custom datasets.
 - **Text Generation**: Demonstrates text generation capabilities of GPT-2 based on input prompts.
 
 ## Usage
